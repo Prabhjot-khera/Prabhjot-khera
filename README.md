@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am a mechatronics engineering student at the University of Waterloo
-Interested in full stack development as well as all things robotics 
+I am a mechatronics engineering student at the University of Waterloo<br>
+Interested in full stack development as well as all things robotics<br>
 I am currently working on delving deeper into data structures and learning front-end development with Javascript and React<br>
 
 
