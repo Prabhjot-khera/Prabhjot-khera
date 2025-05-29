@@ -37,6 +37,7 @@ My passion lies in **robotics**, **embedded systems**, and **machine vision**, w
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-2C5286?style=for-the-badge)
 ![FPGA](https://img.shields.io/badge/FPGA-00457C?style=for-the-badge&logo=intel&logoColor=white)
+![PCL](https://img.shields.io/badge/PCL-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
 
 ### 🧠 Machine Vision & ML:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
