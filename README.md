@@ -1,5 +1,5 @@
 # 🤖 About Me
-Hi, I'm **Prabhjot Khera**,a 3rd year Mechatronics Engineering student at the University of Waterloo.  
+Hi, I'm **Prabhjot Khera**, a 3rd year Mechatronics Engineering student at the University of Waterloo.  
 My passion lies in **robotics**, **embedded systems**, and **machine vision**, where I enjoy building intelligent systems that interact with the physical world.
 
 🧠 Currently exploring real-time systems, low-level firmware, point cloud processing, and Machine Learning models for Point Cloud semantic segmentation.  
