@@ -53,7 +53,7 @@ My passion lies in **robotics**, **embedded systems**, and **machine vision**, w
 ![UART](https://img.shields.io/badge/UART-000000?style=for-the-badge)
 ![SPI](https://img.shields.io/badge/SPI-000000?style=for-the-badge)
 ![I2C](https://img.shields.io/badge/I2C-000000?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN-Bus-000000?style=for-the-badge)
+
 
 ### 🌐 Full-Stack & Cloud Development:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
